@@ -1,0 +1,8 @@
+$include /etc/inputrc
+
+# tab
+TAB: menu-complete
+
+set show-all-if-ambiguous on
+set completion-ignore-case on
+set menu-complete-display-prefix on
